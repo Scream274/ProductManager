@@ -1,6 +1,6 @@
-package org.itstep.accountmanager;
+package org.itstep.productmanager;
 
-import org.itstep.accountmanager.product.*;
+import org.itstep.productmanager.product.*;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,8 +1,8 @@
-package org.itstep.accountmanager.readers;
+package org.itstep.productmanager.readers;
 
-import org.itstep.accountmanager.product.ProductConverter;
-import org.itstep.accountmanager.product.Product;
-import org.itstep.accountmanager.product.ProductNotFoundException;
+import org.itstep.productmanager.product.ProductConverter;
+import org.itstep.productmanager.product.Product;
+import org.itstep.productmanager.product.ProductNotFoundException;
 
 import java.io.*;
 import java.nio.file.Files;

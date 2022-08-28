@@ -1,7 +1,7 @@
-package org.itstep.accountmanager.writers;
+package org.itstep.productmanager.writers;
 
-import org.itstep.accountmanager.product.ProductConverter;
-import org.itstep.accountmanager.product.Product;
+import org.itstep.productmanager.product.ProductConverter;
+import org.itstep.productmanager.product.Product;
 
 import java.io.FileWriter;
 import java.io.IOException;

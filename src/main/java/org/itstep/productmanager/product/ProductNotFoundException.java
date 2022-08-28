@@ -1,4 +1,4 @@
-package org.itstep.accountmanager.product;
+package org.itstep.productmanager.product;
 
 public class ProductNotFoundException extends Exception{
     public ProductNotFoundException(String message) {

@@ -1,4 +1,4 @@
-package org.itstep.accountmanager;
+package org.itstep.productmanager;
 
 import static org.junit.Assert.assertTrue;
 

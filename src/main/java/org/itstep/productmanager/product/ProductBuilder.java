@@ -1,4 +1,4 @@
-package org.itstep.accountmanager.product;
+package org.itstep.productmanager.product;
 
 public class ProductBuilder {
     private Product product = new Product();

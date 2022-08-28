@@ -1,4 +1,4 @@
-package org.itstep.accountmanager.product;
+package org.itstep.productmanager.product;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

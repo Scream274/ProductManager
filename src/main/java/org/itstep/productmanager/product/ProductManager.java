@@ -1,7 +1,7 @@
-package org.itstep.accountmanager.product;
+package org.itstep.productmanager.product;
 
-import org.itstep.accountmanager.readers.*;
-import org.itstep.accountmanager.writers.*;
+import org.itstep.productmanager.readers.*;
+import org.itstep.productmanager.writers.*;
 
 import java.io.IOException;
 import java.util.List;
